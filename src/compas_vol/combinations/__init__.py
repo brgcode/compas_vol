@@ -33,7 +33,7 @@ __all__ = [
     'Intersection',
     'Subtraction',
     'SmoothUnion',
-    'SmoothUnionList'
+    'SmoothUnionList',
     'SmoothIntersection',
     'SmoothSubtraction',
     'Morph'
